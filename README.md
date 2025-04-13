@@ -7,4 +7,5 @@ The source of the Roblox plugin for my [Reuploader Tool](https://github.com/Shad
 3. Open the Plugin menu and select your desired assets to reupload or reupload all.
 
 ## Credits
-Concept taken from [kartFr's Animation Reuploader](https://github.com/kartFr/Auto-Animation-Reuploader) and [evaera's Animation Transfer](https://github.com/evaera/roblox-animation-transfer), rewritten in TypeScript and updated for API changes.
+- Concept taken from [kartFr's Animation Reuploader](https://github.com/kartFr/Auto-Animation-Reuploader) and [evaera's Animation Transfer](https://github.com/evaera/roblox-animation-transfer), rewritten in TypeScript and updated for API changes.
+- Plugin UI created with the [Synthetic UI Library](https://github.com/nightcycle/synthetic).
