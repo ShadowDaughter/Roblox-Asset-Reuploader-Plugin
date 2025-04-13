@@ -1,5 +1,5 @@
 # Roblox-Asset-Reuploader-Plugin
-The source of the Roblox plugin for my [Reuploader Tool](https://github.com/ShadowDaughter/Roblox-Asset-Reuploader)
+The source of the Roblox plugin for my [Reuploader Tool](https://github.com/ShadowDaughter/Roblox-Asset-Reuploader).
 
 ## Usage
 1. Download the [latest Executable release](https://github.com/ShadowDaughter/Roblox-Asset-Reuploader/releases/latest/download/Roblox.Asset.Reuploader.zip), the plugin is downloaded automatically.
