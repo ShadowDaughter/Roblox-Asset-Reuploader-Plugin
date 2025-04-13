@@ -1,0 +1,10 @@
+{
+  "name": "Roblox-Asset-Reuploader-Plugin",
+  "tree": {
+    "$className": "Folder",
+    "$path": "src",
+    "Packages": {
+      "$path": "Packages"
+    }
+  }
+}
