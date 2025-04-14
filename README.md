@@ -1,4 +1,4 @@
-# Roblox-Asset-Reuploader-Plugin
+# Roblox Asset Reuploader Plugin
 The source of the Roblox plugin for my [Reuploader Tool](https://github.com/ShadowDaughter/Roblox-Asset-Reuploader).
 
 ## Usage
